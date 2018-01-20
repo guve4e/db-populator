@@ -1,0 +1,30 @@
+[
+    {
+        "U_EXPENSES_DATE_RANGE": {
+            "type": "string",
+            "value": "2013-01-01|2017-12-31"
+        },
+        "U_HASH": {
+            "type": "string",
+            "value": "123456789"
+        },
+        "U_TIMESTAMP": {
+            "type": "string",
+            "value": "2018-01-11 03:14:07"
+        }
+    },
+    {
+        "U_EXPENSES_DATE_RANGE": {
+            "type": "string",
+            "value": "2013-01-01|2017-12-31"
+        },
+        "U_HASH": {
+            "type": "string",
+            "value": "987654321"
+        },
+        "U_TIMESTAMP": {
+            "type": "string",
+            "value": "2018-01-11 03:14:07"
+        }
+    }
+]

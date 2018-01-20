@@ -1,0 +1,308 @@
+[
+    {
+        "ET_DESCRIPTION": {
+            "type": "string",
+            "value": "Monthly Rent."
+        },
+        "ET_NAME": {
+            "type": "string",
+            "value": "Rent"
+        },
+        "ET_TYPE": {
+            "type": "string",
+            "value": "CONSTANT"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "ET_DESCRIPTION": {
+            "type": "string",
+            "value": "Electric Bill."
+        },
+        "ET_NAME": {
+            "type": "string",
+            "value": "Electric"
+        },
+        "ET_TYPE": {
+            "type": "string",
+            "value": "CONSTANT"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "ET_DESCRIPTION": {
+            "type": "string",
+            "value": "Cellphone Bill."
+        },
+        "ET_NAME": {
+            "type": "string",
+            "value": "Cellphone"
+        },
+        "ET_TYPE": {
+            "type": "string",
+            "value": "CONSTANT"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "ET_DESCRIPTION": {
+            "type": "string",
+            "value": "Comcast Bill."
+        },
+        "ET_NAME": {
+            "type": "string",
+            "value": "TV, Internet"
+        },
+        "ET_TYPE": {
+            "type": "string",
+            "value": "CONSTANT"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "ET_DESCRIPTION": {
+            "type": "string",
+            "value": "Cars insurance, registration, parking stickers."
+        },
+        "ET_NAME": {
+            "type": "string",
+            "value": "Auto"
+        },
+        "ET_TYPE": {
+            "type": "string",
+            "value": "CONSTANT"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "ET_DESCRIPTION": {
+            "type": "string",
+            "value": "School Loan payments."
+        },
+        "ET_NAME": {
+            "type": "string",
+            "value": "School Loan"
+        },
+        "ET_TYPE": {
+            "type": "string",
+            "value": "CONSTANT"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "ET_DESCRIPTION": {
+            "type": "string",
+            "value": "Yearly payments: cord-blood, etc"
+        },
+        "ET_NAME": {
+            "type": "string",
+            "value": "Yearly Accounts"
+        },
+        "ET_TYPE": {
+            "type": "string",
+            "value": "CONSTANT"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "ET_DESCRIPTION": {
+            "type": "string",
+            "value": "Food Expenses."
+        },
+        "ET_NAME": {
+            "type": "string",
+            "value": "Food"
+        },
+        "ET_TYPE": {
+            "type": "string",
+            "value": "VARIABLE"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "ET_DESCRIPTION": {
+            "type": "string",
+            "value": "Gas Expenses."
+        },
+        "ET_NAME": {
+            "type": "string",
+            "value": "Gas"
+        },
+        "ET_TYPE": {
+            "type": "string",
+            "value": "VARIABLE"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "ET_DESCRIPTION": {
+            "type": "string",
+            "value": "Gas Gallons."
+        },
+        "ET_NAME": {
+            "type": "string",
+            "value": "Gas Gallons"
+        },
+        "ET_TYPE": {
+            "type": "string",
+            "value": "VARIABLE"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "ET_DESCRIPTION": {
+            "type": "string",
+            "value": "Personal Expenses: clothing, electronics, etc."
+        },
+        "ET_NAME": {
+            "type": "string",
+            "value": "Personal"
+        },
+        "ET_TYPE": {
+            "type": "string",
+            "value": "VARIABLE"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "ET_DESCRIPTION": {
+            "type": "string",
+            "value": "Entertainment Expenses: movies, zoo, sport, etc."
+        },
+        "ET_NAME": {
+            "type": "string",
+            "value": "Entertainment"
+        },
+        "ET_TYPE": {
+            "type": "string",
+            "value": "VARIABLE"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "ET_DESCRIPTION": {
+            "type": "string",
+            "value": "Cars Expenses: parts, labor, etc. (not included registration and insurance)"
+        },
+        "ET_NAME": {
+            "type": "string",
+            "value": "Auto"
+        },
+        "ET_TYPE": {
+            "type": "string",
+            "value": "VARIABLE"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "ET_DESCRIPTION": {
+            "type": "string",
+            "value": "Dinner Expenses: restaurants, fast food, etc."
+        },
+        "ET_NAME": {
+            "type": "string",
+            "value": "Dinner"
+        },
+        "ET_TYPE": {
+            "type": "string",
+            "value": "VARIABLE"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "ET_DESCRIPTION": {
+            "type": "string",
+            "value": "Hobby Expenses: fishing, tools, garden, etc."
+        },
+        "ET_NAME": {
+            "type": "string",
+            "value": "Hobby"
+        },
+        "ET_TYPE": {
+            "type": "string",
+            "value": "VARIABLE"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "ET_DESCRIPTION": {
+            "type": "string",
+            "value": "Pets Expenses: food, doctor visits, etc."
+        },
+        "ET_NAME": {
+            "type": "string",
+            "value": "Pets"
+        },
+        "ET_TYPE": {
+            "type": "string",
+            "value": "VARIABLE"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "ET_DESCRIPTION": {
+            "type": "string",
+            "value": "Home Expenses: cleaning supplies, household goods, etc."
+        },
+        "ET_NAME": {
+            "type": "string",
+            "value": "Home"
+        },
+        "ET_TYPE": {
+            "type": "string",
+            "value": "VARIABLE"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    }
+]

@@ -1,0 +1,5642 @@
+[
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "108.00"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2013-01-31"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "120.00"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "150.00"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "145.15"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "January"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "80.00"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "714.00"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "1053.00"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2013
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2013-02-28"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "155.28"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "656.18"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "229.42"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "146.53"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "February"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "35.25"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "1500.00"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "714.00"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "2722.66"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2013
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "13.74"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2013-03-31"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "128.98"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "544.88"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "300.49"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "8.18"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "126.53"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "March"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "714.00"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "1122.80"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2013
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "134.21"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2013-04-30"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "151.99"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "571.87"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "250.30"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "2.14"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "41.45"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "April"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "97.47"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "23.84"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "714.00"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "1273.27"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2013
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "522.26"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2013-05-31"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "40.13"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "156.20"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "530.20"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "129.98"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "31.83"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "5.41"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "May"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "282.46"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "35.34"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "714.00"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "2455.69"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2013
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "341.36"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2013-06-30"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "305.08"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "78.00"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "579.31"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "246.32"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "355.07"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "28.60"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "June"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "275.82"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "65.99"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "714.00"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "2275.55"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2013
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2013-07-31"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "22.00"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "16.23"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "373.75"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "117.94"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "25.76"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "166.59"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "July"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "35.38"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "50.57"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "714.00"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "808.22"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2013
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "26.05"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2013-08-31"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "333.31"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "110.00"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "373.15"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "207.15"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "154.83"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "August"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "182.76"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "714.00"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "1387.25"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2013
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "151.88"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2013-09-30"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "75.91"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "4.67"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "477.04"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "113.18"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "55.17"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "90.06"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "September"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "129.94"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "714.00"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "1097.85"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2013
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "235.88"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2013-10-31"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "122.11"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "396.20"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "123.99"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "35.43"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "165.51"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "October"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "298.77"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "180.00"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "714.00"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "1617.89"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2013
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "458.92"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2013-11-30"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "110.39"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "65.01"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "347.10"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "55.14"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "93.71"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "November"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "464.59"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "59.12"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "714.00"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "1728.55"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2013
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "70.52"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2013-12-31"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "63.10"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "185.00"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "512.87"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "107.96"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "59.48"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "149.79"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "December"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "338.19"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "714.00"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "1097.85"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2013
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "110.95"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2014-01-31"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "48.13"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "138.00"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "542.57"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "119.95"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "119.80"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "January"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "172.13"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "321.90"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "714.00"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "1573.43"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2014
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2014-02-28"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "157.30"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "359.77"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "209.06"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "14.03"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "80.68"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "February"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "134.19"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "714.00"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "955.03"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2014
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2014-03-31"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "140.89"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "488.75"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "227.13"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "50.47"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "37.72"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "March"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "35.54"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "714.00"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "980.50"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2014
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2014-04-30"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "138.21"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "30.00"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "436.06"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "134.99"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "125.27"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "April"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "461.50"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "714.00"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "1326.03"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2014
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "440.95"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2014-05-31"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "167.79"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "1270.50"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "596.59"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "178.22"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "430.11"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "May"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "327.84"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "6.52"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "714.00"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "3418.52"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2014
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "138.00"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2014-06-30"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "88.25"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "15.04"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "June"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "195.48"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "714.00"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "1436.77"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2014
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2014-07-31"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "290.85"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "130.00"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "491.45"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "159.94"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "70.77"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "July"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "468.58"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "714.00"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "1611.59"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2014
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "24.53"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2014-08-31"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "189.40"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "174.95"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "327.64"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "239.12"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "346.74"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "391.63"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "August"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "155.95"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "714.00"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "1849.99"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2014
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2014-09-30"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "62.38"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "335.61"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "186.20"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "19.65"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "196.25"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "September"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "98.56"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "714.00"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "898.65"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2014
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "29.45"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2014-10-31"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "139.28"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "91.45"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "250.99"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "172.36"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "29.45"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "71.68"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "October"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "161.95"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "714.00"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "946.61"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2014
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "411.48"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2014-11-30"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "70.04"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "26.00"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "556.36"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "77.83"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "144.72"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "November"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "56.00"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "714.00"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "1342.43"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2014
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "28.38"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2014-12-31"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "146.06"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "337.76"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "150.19"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "33.60"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "193.78"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "December"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "389.22"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "714.00"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "1278.99"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2014
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2015-01-31"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "143.03"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "18.38"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "365.15"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "116.89"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "13.59"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "491.42"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "January"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "477.38"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "714.00"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "1625.84"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2015
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2015-02-28"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "109.19"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "297.03"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "60.76"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "12.02"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "211.86"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "February"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "219.71"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "714.00"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "910.57"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2015
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "263.51"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2015-03-31"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "52.59"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "319.56"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "91.25"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "187.25"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "March"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "99.76"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "714.00"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "1013.92"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2015
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "110.95"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2015-04-30"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "94.37"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "285.13"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "90.26"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "78.90"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "April"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "52.35"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "714.00"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "711.96"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2015
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "192.67"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2015-05-31"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "242.34"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "364.55"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "129.55"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "955.47"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "May"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "79.96"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "714.00"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "1964.54"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2015
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "328.11"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2015-06-30"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "41.87"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "577.82"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "107.11"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "124.68"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "June"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "343.44"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "1097.33"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "1523.03"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2015
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "383.33"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "3.00"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2015-07-31"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "64.77"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "935.81"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "102.40"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "142.56"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "July"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "34.32"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "1097.33"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "1282.58"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2015
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "383.33"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "10.00"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2015-08-31"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "352.81"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "52.88"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "921.04"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "August"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "25.11"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "1097.33"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "1361.84"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2015
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "383.33"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2015-09-30"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "35.51"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "649.57"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "106.27"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "74.36"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "September"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "531.21"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "1097.33"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "1396.92"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2015
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "383.33"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2015-10-31"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "3.90"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "200.00"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "747.19"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "394.21"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "October"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "21.36"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "1097.33"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "1366.66"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2015
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "383.33"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2015-11-30"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "28.46"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "40.00"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "472.72"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "63.04"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "34.90"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "November"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "303.56"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "1097.33"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "942.68"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2015
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "383.33"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2015-12-31"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "391.37"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "36.89"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "240.36"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "December"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "352.48"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "1097.33"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "1021.10"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2015
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "383.33"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2016-01-31"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "32.74"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "807.74"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "22.92"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "28.74"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "January"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "58.88"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "739.00"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "951.05"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2016
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "25.00"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "65.66"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2016-02-29"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "160.13"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "772.14"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "14.99"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "5.00"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "February"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "386.83"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "739.00"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "1404.75"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2016
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "25.00"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "17.70"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2016-03-31"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "116.99"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "729.40"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "15.00"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "March"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "555.52"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "739.00"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "1434.61"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2016
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "25.00"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2016-04-30"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "78.88"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "87.57"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "837.19"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "104.83"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "April"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "203.52"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "739.00"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "1311.99"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2016
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "25.00"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2016-05-31"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "49.92"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "339.39"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "133.10"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "60.63"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "May"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "214.15"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "739.00"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "790.19"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2016
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "25.00"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "37.77"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2016-06-30"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "59.25"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "720.00"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "448.76"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "46.48"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "36.64"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "June"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "53.18"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "739.00"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "1402.08"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2016
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "25.00"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "11.00"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2016-07-31"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "170.91"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "818.00"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "538.59"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "119.11"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "July"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "75.11"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "739.00"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "1732.72"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2016
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "25.00"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "3.00"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2016-08-31"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "112.64"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "893.23"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "72.52"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "81.16"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "August"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "126.52"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "739.00"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "1289.07"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2016
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "25.00"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2016-09-30"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "165.58"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "23.86"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "707.38"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "56.40"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "133.83"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "September"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "73.68"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "739.00"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "1160.73"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2016
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "25.00"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2016-10-31"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "147.85"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "27.00"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "642.32"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "60.59"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "October"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "103.39"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "739.00"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "981.15"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2016
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "25.00"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2016-11-30"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "43.07"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "7.51"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "647.32"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "31.01"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "November"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "739.00"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "728.72"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2016
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "25.00"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2016-12-31"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "140.11"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "400.25"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "40.01"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "69.03"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "December"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "76.15"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "739.00"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "725.64"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2016
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "25.00"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "29.08"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2017-01-31"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "328.15"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "60.75"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "513.40"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "January"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "128.92"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "739.00"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "1134.30"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2017
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "25.00"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "49.92"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2017-02-28"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "43.00"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "773.07"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "72.50"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "29.96"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "February"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "84.86"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "9.56"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "739.00"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "1062.87"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2017
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "25.00"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2017-03-31"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "70.45"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "10.00"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "936.71"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "72.04"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "177.45"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "March"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "260.32"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "6.00"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "739.00"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "1532.97"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2017
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "25.00"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "240.25"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2017-04-30"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "55.91"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "520.49"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "94.34"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "147.94"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "32.00"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "April"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "254.33"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "739.00"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "1345.26"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2017
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "25.00"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2017-05-31"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "80.15"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "877.77"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "34.12"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "May"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "305.36"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "739.00"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "1297.40"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2017
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "25.00"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "48.45"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2017-06-30"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "40.43"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "109.28"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "1084.52"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "73.38"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "June"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "196.05"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "739.00"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "1552.11"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2017
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "25.00"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "23.43"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2017-07-31"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "210.81"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "48.75"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "1214.96"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "71.81"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "64.79"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "106.41"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "July"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "100.15"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "739.00"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "1841.11"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2017
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "25.00"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "20.51"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2017-08-31"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "98.30"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "48.04"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "956.61"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "107.66"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "59.23"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "August"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "433.39"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "16.19"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "739.00"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "1739.93"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2017
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "25.00"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "108.50"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2017-09-30"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "61.20"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "902.34"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "117.48"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "92.27"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "September"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "290.46"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "72.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "811.00"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "1572.25"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2017
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "25.00"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "35.02"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2017-10-31"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "80.55"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "630.22"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "1340.25"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "127.49"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "189.53"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "October"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "619.60"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "72.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "811.00"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "3022.66"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2017
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "25.00"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2017-11-30"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "371.92"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "32.00"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "942.76"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "40.06"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "November"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "265.00"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "25.00"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "72.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "811.00"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "1676.88"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2017
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "25.00"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    },
+    {
+        "M_AUTO": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_AUTODOC": {
+            "type": "int",
+            "value": "74.00"
+        },
+        "M_CELLPHONE": {
+            "type": "int",
+            "value": "70.00"
+        },
+        "M_DATE": {
+            "type": "string",
+            "value": "2017-12-31"
+        },
+        "M_DINNER": {
+            "type": "int",
+            "value": "140.11"
+        },
+        "M_ELECTRIC": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_ENTERTAINMENT": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_FOOD": {
+            "type": "int",
+            "value": "400.25"
+        },
+        "M_GAS": {
+            "type": "int",
+            "value": "40.01"
+        },
+        "M_GAS_GALLONS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOBBY": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_HOME": {
+            "type": "int",
+            "value": "69.03"
+        },
+        "M_MONTH": {
+            "type": "string",
+            "value": "December"
+        },
+        "M_PERSONAL": {
+            "type": "int",
+            "value": "76.15"
+        },
+        "M_PETS": {
+            "type": "int",
+            "value": "0.00"
+        },
+        "M_RENT": {
+            "type": "int",
+            "value": "450.00"
+        },
+        "M_SCHOOLLOAN": {
+            "type": "int",
+            "value": "72.00"
+        },
+        "M_TOTALCONST": {
+            "type": "int",
+            "value": "811.00"
+        },
+        "M_TOTALVAR": {
+            "type": "int",
+            "value": "725.64"
+        },
+        "M_TVINTERNET": {
+            "type": "int",
+            "value": "60.00"
+        },
+        "M_YEAR": {
+            "type": "int",
+            "value": 2017
+        },
+        "M_YEARLYACCOUNTS": {
+            "type": "int",
+            "value": "25.00"
+        },
+        "U_ID": {
+            "type": "int",
+            "value": 1001
+        }
+    }
+]
