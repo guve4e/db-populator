@@ -1,0 +1,3 @@
+# DB populator 
+
+###Directory structure

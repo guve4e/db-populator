@@ -11,20 +11,6 @@ class SQL(object):
     """
     db = None
 
-    def __init__(self, server, username, password, schema) -> None:
-        """
-        Constructor
-        :param server: database server name
-        :param username:
-        :param password:
-        :param schema:
-        """
-
-        super().__init__()
-
-        # Open database connection
-        self.db = pymysql.connect(server, username, password, schema)
-
     def create_table(self, sql_string: str):
         """
             Creates MySQL table
