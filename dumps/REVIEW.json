@@ -1,0 +1,115 @@
+[
+    {   
+        "P_ID": {
+            "type" : "int",
+            "value" : "1"
+        },
+        "R_STAR": {
+            "type" : "int",
+            "value" : "3"
+        },
+        "R_COMMENT": {
+            "type" : "string",
+            "value" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad aliquam necessitatibus suscipit velit voluptatibus! Ab accusamus ad adipisci alias aliquid at atque consectetur, dicta dignissimos, distinctio dolores esse fugiat iste laborum libero magni maiores maxime modi nemo neque, nesciunt nisi nulla optio placeat quas quia quibusdam quis saepe sit ullam!"
+        }
+    },
+    {   
+        "P_ID": {
+            "type" : "int",
+            "value" : "1"
+        },
+        "R_STAR": {
+            "type" : "int",
+            "value" : "4"
+        },
+        "R_COMMENT": {
+            "type" : "string",
+            "value" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad aliquam necessitatibus suscipit velit voluptatibus! Ab accusamus ad adipisci alias aliquid at atque consectetur, dicta dignissimos, distinctio dolores esse fugiat iste laborum libero magni maiores maxime modi nemo neque, nesciunt nisi nulla optio placeat quas quia quibusdam quis saepe sit ullam!"
+        }
+    },
+    {   
+        "P_ID": {
+            "type" : "int",
+            "value" : "2"
+        },
+        "R_STAR": {
+            "type" : "int",
+            "value" : "2"
+        },
+        "R_COMMENT": {
+            "type" : "string",
+            "value" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad aliquam necessitatibus suscipit velit voluptatibus! Ab accusamus ad adipisci alias aliquid at atque consectetur, dicta dignissimos, distinctio dolores esse fugiat iste laborum libero magni maiores maxime modi nemo neque, nesciunt nisi nulla optio placeat quas quia quibusdam quis saepe sit ullam!"
+        }
+    },
+    {   
+        "P_ID": {
+            "type" : "int",
+            "value" : "2"
+        },
+        "R_STAR": {
+            "type" : "int",
+            "value" : "5"
+        },
+        "R_COMMENT": {
+            "type" : "string",
+            "value" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad aliquam necessitatibus suscipit velit voluptatibus! Ab accusamus ad adipisci alias aliquid at atque consectetur, dicta dignissimos, distinctio dolores esse fugiat iste laborum libero magni maiores maxime modi nemo neque, nesciunt nisi nulla optio placeat quas quia quibusdam quis saepe sit ullam!"
+        }
+    },
+    {   
+        "P_ID": {
+            "type" : "int",
+            "value" : "3"
+        },
+        "R_STAR": {
+            "type" : "int",
+            "value" : "4"
+        },
+        "R_COMMENT": {
+            "type" : "string",
+            "value" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad aliquam necessitatibus suscipit velit voluptatibus! Ab accusamus ad adipisci alias aliquid at atque consectetur, dicta dignissimos, distinctio dolores esse fugiat iste laborum libero magni maiores maxime modi nemo neque, nesciunt nisi nulla optio placeat quas quia quibusdam quis saepe sit ullam!"
+        }
+    },
+    {   
+        "P_ID": {
+            "type" : "int",
+            "value" : "4"
+        },
+        "R_STAR": {
+            "type" : "int",
+            "value" : "2"
+        },
+        "R_COMMENT": {
+            "type" : "string",
+            "value" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad aliquam necessitatibus suscipit velit voluptatibus! Ab accusamus ad adipisci alias aliquid at atque consectetur, dicta dignissimos, distinctio dolores esse fugiat iste laborum libero magni maiores maxime modi nemo neque, nesciunt nisi nulla optio placeat quas quia quibusdam quis saepe sit ullam!"
+        }
+    },
+    {   
+        "P_ID": {
+            "type" : "int",
+            "value" : "4"
+        },
+        "R_STAR": {
+            "type" : "int",
+            "value" : "1"
+        },
+        "R_COMMENT": {
+            "type" : "string",
+            "value" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad aliquam necessitatibus suscipit velit voluptatibus! Ab accusamus ad adipisci alias aliquid at atque consectetur, dicta dignissimos, distinctio dolores esse fugiat iste laborum libero magni maiores maxime modi nemo neque, nesciunt nisi nulla optio placeat quas quia quibusdam quis saepe sit ullam!"
+        }
+    },
+    {   
+        "P_ID": {
+            "type" : "int",
+            "value" : "5"
+        },
+        "R_STAR": {
+            "type" : "int",
+            "value" : "5"
+        },
+        "R_COMMENT": {
+            "type" : "string",
+            "value" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad aliquam necessitatibus suscipit velit voluptatibus! Ab accusamus ad adipisci alias aliquid at atque consectetur, dicta dignissimos, distinctio dolores esse fugiat iste laborum libero magni maiores maxime modi nemo neque, nesciunt nisi nulla optio placeat quas quia quibusdam quis saepe sit ullam!"
+        }
+    }
+    
+]  

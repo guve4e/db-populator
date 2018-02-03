@@ -5,26 +5,29 @@ import json
 from os import listdir
 from os.path import isfile, join
 from Sql import SQL
-
-
-DB_SERVER = "localhost"
-DB_USER = "root"
-DB_PASS = "aztewe"
-DB_SCHEMA = "Housenet"
+from parse_json import ParseJson
 
 SCRIPTS_DICT = "dumps"
 
 
 class Populate(object):
 
-    def __init__(self) -> None:
+    def __init__(self, info_json) -> None:
         """
         Constructor
         """
         super().__init__()
-        
-        sql = SQL(DB_SERVER, DB_USER, DB_PASS, DB_SCHEMA)
 
+        self.info = ParseJson(info_json)
+        server = self.info.json_data['server']
+        username = self.info.json_data['username']
+        password = self.info.json_data['password']
+        database = self.info.json_data['database']
+
+        # create schema
+        SQL.create_schema(server, username, password, database)
+
+        self.sql = SQL(server, username, password, database)
 
     @staticmethod
     def double_quote_string(word: str) -> str:
@@ -119,7 +122,7 @@ class Populate(object):
         # make dict and return it
         return {table: sql_str}
 
-
+    @staticmethod
     def extract_rows_and_columns_names(row_dict: {}):
         """
             Given a dictionary representing a row in
@@ -159,8 +162,7 @@ class Populate(object):
         sql_commands = sql_file.rstrip(';').split(';')
         return sql_commands
 
-    @staticmethod
-    def insert_into_table(table_name: str, table_json_file):
+    def insert_into_table(self, table_name: str, table_json_file):
         """"
             Insert into table
             :param table_name is the name of the table
@@ -195,21 +197,22 @@ class Populate(object):
                     # so the the values get added to a list of values, separated by comas
                     attribute_values_string = Populate.make_join_string(attribute_values_string)
 
-                    sql = SQL(DB_SERVER, DB_USER, DB_PASS, DB_SCHEMA)
-                    sql.insert_into_table(table_name, column_string, attribute_values_string)
+                    self.sql.insert_into_table(table_name, column_string, attribute_values_string)
                     i = i + 1
 
         except IOError as e:
             print("Exception opening file " + table_json_file + " " + e.strerror)
 
-    @staticmethod
-    def create_tables():
+    def create_schema(self):
+        self.sql.create_schema(self.database)
+
+    def create_tables(self):
         """
         Loads a sql file with script to create tables.
         :return:
         """
         # load script from file
-        sql_list = Populate.get_scripts_from_file("tables/tables.sql")
+        sql_list = Populate.get_scripts_from_file("schema/tables.sql")
 
         # store it in ordered dictionary
         sql_dict = collections.OrderedDict()
@@ -220,15 +223,13 @@ class Populate(object):
         # reverse the dictionary
         rev = collections.OrderedDict(reversed(list(sql_dict.items())))
 
-        # drop tables first
+        # drop schema first
         for key, value in rev.items():
-            sql = SQL(DB_SERVER, DB_USER, DB_PASS, DB_SCHEMA)
-            sql.drop_table(key)
+            self.sql.drop_table(key)
 
-        # create tables
+        # create schema
         for table_name, sql_string in sql_dict.items():
-            sql = SQL(DB_SERVER, DB_USER, DB_PASS, DB_SCHEMA)
-            sql.create_table(sql_string)
+            self.sql.create_table(sql_string)
 
     @staticmethod
     def retrieve_table_name(file_name):
@@ -240,29 +241,17 @@ if __name__ == "__main__":
 
     start_time = time.time()
 
+    db = Populate("schema/schema_info.json")
+
     # create tables
-    Populate.create_tables()
+    db.create_tables()
 
     files = [f for f in listdir(SCRIPTS_DICT) if isfile(join(SCRIPTS_DICT, f))]
 
     for file in files:
         table_name = Populate.retrieve_table_name(file)
-        Populate.insert_into_table(table_name, file)
+        db.insert_into_table(table_name, file)
 
-    # # insert to table MONTHLYEXPENSES
-    # insert_into_table("MONTHLYEXPENSES",'MONTHLYEXPENSES.json')
-    #
-    # # insert to table USER
-    # insert_into_table("USER", 'users.json')
-    #
-    #  # insert to table EXPENSETYPE
-    # insert_into_table("EXPENSETYPE", 'categories.json')
-
-    # # insert to table REVEIW
-    # insert_into_table("REVIEW", 'reviews.json')
-
-    # # insert to table REVEIW
-    # insert_into_table("SHIPPING", 'shipping.json')
 
     end_time = time.time()
     elapsed_time = round((end_time - start_time), 2)

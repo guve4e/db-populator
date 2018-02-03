@@ -3,6 +3,9 @@
 import pymysql
 
 
+import pymysql
+
+
 class SQL(object):
     """
         SQL connects to MySQL and gives back handle (db)
@@ -11,6 +14,36 @@ class SQL(object):
     """
     db = None
 
+    def __init__(self, server, username, password, schema) -> None:
+        """
+        Constructor
+        :param server: database server name
+        :param username:
+        :param password:
+        :param schema:
+        """
+        super().__init__()
+        self.server = server
+        self.username = username
+        self.password = password
+        self.schema = schema
+
+    @staticmethod
+    def create_schema(server, username, password, schema_name):
+        sql = """CREATE DATABASE IF NOT EXISTS {};""".format(schema_name)
+
+        # Open database connection
+        db = pymysql.connect(server, username, password)
+
+        # prepare a cursor object using cursor() method
+        cursor = db.cursor()
+
+        # execute
+        cursor.execute(sql)
+
+        # disconnect from server
+        db.close()
+
     def create_table(self, sql_string: str):
         """
             Creates MySQL table
@@ -18,6 +51,9 @@ class SQL(object):
         """
         if sql_string is None:
             raise Exception("Null parameters")
+
+        # Open database connection
+        self.db = pymysql.connect(self.server, self.username, self.password, self.schema)
 
         # prepare a cursor object using cursor() method
         cursor = self.db.cursor()
@@ -37,6 +73,9 @@ class SQL(object):
         if table_name is None:
             raise Exception("Null parameters")
 
+        # Open database connection
+        self.db = pymysql.connect(self.server, self.username, self.password, self.schema)
+
         # prepare a cursor object using cursor() method
         cursor = self.db.cursor()
 
@@ -55,6 +94,9 @@ class SQL(object):
         """
         sql = """INSERT INTO {0}({1})
            VALUES ({2})""".format(table_name, cols, rows)
+
+        # Open database connection
+        self.db = pymysql.connect(self.server, self.username, self.password, self.schema)
 
         # prepare a cursor object using cursor() method
         cursor = self.db.cursor()
@@ -76,6 +118,9 @@ class SQL(object):
     def retrieve_database_tables_names(self) -> list:
         sql = """SHOW TABLES"""
 
+        # Open database connection
+        self.db = pymysql.connect(self.server, self.username, self.password, self.schema)
+
         # prepare a cursor object using cursor() method
         cursor = self.db.cursor()
         cursor.execute(sql)
@@ -87,6 +132,9 @@ class SQL(object):
                 FROM INFORMATION_SCHEMA.COLUMNS 
                 WHERE TABLE_NAME = '{}';""".format(table_name)
 
+        # Open database connection
+        self.db = pymysql.connect(self.server, self.username, self.password, self.schema)
+
         # prepare a cursor object using cursor() method
         cursor = self.db.cursor(pymysql.cursors.DictCursor)
         cursor.execute(sql)
@@ -95,6 +143,9 @@ class SQL(object):
 
     def retrieve_table_values(self, table_name) -> list:
 
+        # Open database connection
+        self.db = pymysql.connect(self.server, self.username, self.password, self.schema)
+
         sql = """SELECT * FROM {};""".format(table_name)
 
         # prepare a cursor object using cursor() method
@@ -102,3 +153,6 @@ class SQL(object):
         cursor.execute(sql)
 
         return cursor.fetchall()
+
+
+
