@@ -10,6 +10,22 @@
 * unit_test - contains unit tests  
 * venv - libraries
 * wiki - documentation
+```
+.
+├── dumps
+│   ├── EXAMPLE1.json
+│   ├── EXAMPLE2.josn
+│── schema
+│   ├── tables.json
+│   ├── schema_info.json
+│── src.js
+│   └── parse.json
+│   │── sql.py
+│── unit_test
+│── venv
+└── wiki
+```
+
 
 ### How to use?
 - Create table script and save it schema/tables.sql
