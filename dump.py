@@ -31,7 +31,7 @@ class Dump(object):
         Searches for element with key 'EXTRA',
         if it is "auto_increment" it returns
         the column name.
-        :param row_infos: list with information abouth
+        :param row_infos: list with information about
         a table row
         :return:
         """
@@ -126,13 +126,13 @@ class Dump(object):
             :return:
             """
 
+        columns = Dump.remove_auto_incremented_values(column_info_list, columns)
+        # at this point the auto_increment field is removed
+
         # If table is empty, row_values will be empty
         # then we do not need to proceed, exit early
         if not columns:
             return
-
-        columns = Dump.remove_auto_incremented_values(column_info_list, columns)
-        # at this point the auto_increment field is removed
 
         rows_list = []
 
