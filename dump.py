@@ -2,8 +2,8 @@
 import time
 import collections
 import json
-from Sql import SQL
-from parse_json import ParseJson
+from src.Sql import SQL
+from src.parse_json import ParseJson
 
 
 class Dump(object):

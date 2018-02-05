@@ -4,8 +4,8 @@ import collections
 import json
 from os import listdir
 from os.path import isfile, join
-from Sql import SQL
-from parse_json import ParseJson
+from src.Sql import SQL
+from src.parse_json import ParseJson
 
 SCRIPTS_DICT = "dumps"
 
