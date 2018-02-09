@@ -1,12 +1,24 @@
 [
     {
-        "U_EXPENSES_DATE_RANGE": {
+        "U_FNAME":  {
             "type": "string",
-            "value": "2013-01-01|2017-12-31"
+            "value": "John"
+        },
+        "U_LNAME":  {
+            "type": "string",
+            "value": "Doe"
         },
         "U_HASH": {
             "type": "string",
-            "value": "123456789"
+            "value": "1@#4frg##fwf4"
+        },
+        "U_USERNAME": {
+            "type": "string",
+            "value": "john@gmail.com"
+        },
+        "U_PASSWORD": {
+            "type": "string",
+            "value": "john"
         },
         "U_TIMESTAMP": {
             "type": "string",
@@ -14,17 +26,29 @@
         }
     },
     {
-        "U_EXPENSES_DATE_RANGE": {
+        "U_FNAME":  {
             "type": "string",
-            "value": "2013-01-01|2017-12-31"
+            "value": "Daniel"
+        },
+        "U_LNAME":  {
+            "type": "string",
+            "value": "Johnson"
         },
         "U_HASH": {
             "type": "string",
-            "value": "987654321"
+            "value": "1@#4frn7&^^^53"
+        },
+        "U_USERNAME": {
+            "type": "string",
+            "value": "daniel@gmail.com"
+        },
+        "U_PASSWORD": {
+            "type": "string",
+            "value": ")(%#^bbjid)"
         },
         "U_TIMESTAMP": {
             "type": "string",
-            "value": "2018-01-11 03:14:07"
+            "value": "2018-02-11 01:12:17"
         }
     }
 ]
