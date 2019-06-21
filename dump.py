@@ -18,7 +18,7 @@ def get_auto_incremented_column_name(row_infos: []):
     Searches for element with key 'EXTRA',
     if it is "auto_increment" it returns
     the column name.
-    :param row_infos: list with information abouth
+    :param row_infos: list with information about
     a table row
     :return:
     """

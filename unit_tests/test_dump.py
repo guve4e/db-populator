@@ -109,7 +109,6 @@ class DumpTestCase(unittest.TestCase):
         self.assertEqual("string", date)
         self.assertEqual("string", timestamp)
 
-
     def test_create_json_list(self):
         # Arrange
         values = [

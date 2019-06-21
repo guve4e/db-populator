@@ -3,7 +3,7 @@ import json
 import os
 
 
-class ParseJson(object):
+class JsonParser(object):
     """
     Class that parses json file
     It has two members:

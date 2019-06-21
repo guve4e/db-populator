@@ -5,7 +5,7 @@ import json
 from os import listdir
 from os.path import isfile, join
 from src.Sql import SQL
-from src.parse_json import ParseJson
+from src.json_parser import JsonParser
 
 SCRIPTS_DICT = "dumps"
 
@@ -18,7 +18,7 @@ class Populate(object):
         """
         super().__init__()
 
-        self.info = ParseJson(info_json)
+        self.info = JsonParser(info_json)
         server = self.info.json_data['server']
         username = self.info.json_data['username']
         password = self.info.json_data['password']
