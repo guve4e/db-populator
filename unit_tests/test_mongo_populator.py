@@ -14,7 +14,7 @@ class MongoPopulatorTest(unittest.TestCase):
     def tearDown(self):
         pass
 
-    def test_foo(self):
+    def test_mongo_populator_with_object(self):
 
         data = {
                    "testCollection1": {
@@ -62,3 +62,68 @@ class MongoPopulatorTest(unittest.TestCase):
         a.populate()
 
         productionMongo.drop_database("SABAAA")
+
+    def test_mongo_populator_with_list(self):
+
+        data = { "users": [
+                {
+                    "U_FNAME":  {
+                        "type": "string",
+                        "value": "John"
+                    },
+                    "U_LNAME":  {
+                        "type": "string",
+                        "value": "Doe"
+                    },
+                    "U_HASH": {
+                        "type": "string",
+                        "value": "1@#4frg##fwf4"
+                    },
+                    "U_USERNAME": {
+                        "type": "string",
+                        "value": "john@gmail.com"
+                    },
+                    "U_PASSWORD": {
+                        "type": "string",
+                        "value": "john"
+                    },
+                    "U_TIMESTAMP": {
+                        "type": "string",
+                        "value": "2018-01-11 03:14:07"
+                    }
+                },
+                {
+                    "U_FNAME":  {
+                        "type": "string",
+                        "value": "Daniel"
+                    },
+                    "U_LNAME":  {
+                        "type": "string",
+                        "value": "Johnson"
+                    },
+                    "U_HASH": {
+                        "type": "string",
+                        "value": "1@#4frn7&^^^53"
+                    },
+                    "U_USERNAME": {
+                        "type": "string",
+                        "value": "daniel@gmail.com"
+                    },
+                    "U_PASSWORD": {
+                        "type": "string",
+                        "value": ")(%#^bbjid)"
+                    },
+                    "U_TIMESTAMP": {
+                        "type": "string",
+                        "value": "2018-02-11 01:12:17"
+                    }
+                }
+            ]
+        }
+
+        productionMongo = Mongo("mongodb://localhost:27017/")
+
+        a = MongoPopulator("SABAAA", data, productionMongo)
+        a.create_schema()
+        a.populate()
+

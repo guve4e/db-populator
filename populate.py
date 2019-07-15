@@ -1,21 +1,32 @@
 #!/usr/bin/env python3
 import time
+import sys
 import collections
 import json
 from os import listdir
 from os.path import isfile, join
 from src.Sql import SQL
 from src.json_parser import JsonParser
+from src.populator import Populator
+from src.mongo_populator import MongoPopulator
+from src.sql_populator import SqlPopulator
 
 SCRIPTS_DICT = "dumps"
 
+class SchemaConfigurator:
+    def __init__(self, info_json) -> None:
+        super().__init__()
+
+        self.info = JsonParser(info_json)
+        server = self.info.json_data['server']
+        username = self.info.json_data['username']
+        password = self.info.json_data['password']
+        database = self.info.json_data['database']
+        port = self.info.json_data['port']
 
 class Populate(object):
 
     def __init__(self, info_json) -> None:
-        """
-        Constructor
-        """
         super().__init__()
 
         self.info = JsonParser(info_json)
@@ -237,21 +248,42 @@ class Populate(object):
         return table_name[0]
 
 
+class Sql():
+    def __init__(self) -> None:
+        super().__init__()
+
+        db = Populate("schema/schema_info.json")
+
+        # create tables
+        db.create_tables()
+
+        files = [f for f in listdir(SCRIPTS_DICT) if isfile(join(SCRIPTS_DICT, f))]
+
+        for file in files:
+            table_name = Populate.retrieve_table_name(file)
+            db.insert_into_table(table_name, file)
+
+
+class Mongo():
+    pass
+
+
+class Foo(Populator):
+    def __init__(self, populator: Populator) -> None:
+        super().__init__()
+
+        populator.create_schema()
+        populator.populate()
+
 if __name__ == "__main__":
 
     start_time = time.time()
 
-    db = Populate("schema/schema_info.json")
-
-    # create tables
-    db.create_tables()
-
-    files = [f for f in listdir(SCRIPTS_DICT) if isfile(join(SCRIPTS_DICT, f))]
-
-    for file in files:
-        table_name = Populate.retrieve_table_name(file)
-        db.insert_into_table(table_name, file)
-
+    isMongo = sys.argv[0]
+    if isMongo is "mongo":
+        Foo(MongoPopulator())
+    else:
+        Foo(SqlPopulator())
 
     end_time = time.time()
     elapsed_time = round((end_time - start_time), 2)
