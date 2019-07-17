@@ -63,7 +63,7 @@ class MongoDataConverterTest(unittest.TestCase):
     __mongo_json = {
         "users": [
             {
-                "fname": "john",
+                "fname": "John",
                 "lname": "Doe",
                 "hash": "1@#4frg##fwf4",
                 "username": "john@gmail.com",
@@ -93,16 +93,14 @@ class MongoDataConverterTest(unittest.TestCase):
     def test_sql_json_to_mongo_json_conversion(self):
 
         converter = MongoDataConverter()
-        converter.sql_json_to_mongo_json("users", self.__sql_json)
-        actual = converter.get_converted_data()
+        actual = converter.sql_json_to_mongo_json("users", self.__sql_json)
 
         self.assertEqual(actual, self.__mongo_json)
 
     def test_mongo_json_to_slq_json_conversion(self):
 
         converter = MongoDataConverter()
-        converter.mongo_json_to_sql_json(self.__mongo_json)
-        actual = converter.get_converted_data()
+        actual = converter.mongo_json_to_sql_json(self.__mongo_json)
 
         self.assertEqual(actual, self.__sql_json)
 
