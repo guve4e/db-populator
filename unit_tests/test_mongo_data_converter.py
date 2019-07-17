@@ -7,7 +7,7 @@ class MongoDataConverterTest(unittest.TestCase):
 
     __sql_json = [
         {
-            "U _FNAME": {
+            "U_FNAME": {
                 "type": "string",
                 "value": "John"
             },
