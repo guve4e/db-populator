@@ -7,7 +7,7 @@ class MongoDataConverterTest(unittest.TestCase):
 
     __sql_json = [
         {
-            "U_FNAME": {
+            "U _FNAME": {
                 "type": "string",
                 "value": "John"
             },
@@ -93,7 +93,7 @@ class MongoDataConverterTest(unittest.TestCase):
     def test_sql_json_to_mongo_json_conversion(self):
 
         converter = MongoDataConverter()
-        converter.sql_json_to_mongo_json(self.__sql_json)
+        converter.sql_json_to_mongo_json("users", self.__sql_json)
         actual = converter.get_converted_data()
 
         self.assertEqual(actual, self.__mongo_json)
